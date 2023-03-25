@@ -1,0 +1,52 @@
+.navMain {
+    background: #FFF;
+    border-bottom: 2px solid #f0f0f0;
+    height: 87px;
+    width: 100%;
+};
+
+.navTitle {
+    font-family: "Roboto",arial,sans-serif;
+    font-weight: 500;
+    color: #464646;
+    display: block;
+    font-size: 87.5%;
+    margin: 7px auto;
+    opacity: 1;
+    position: relative;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.contentWrapper {
+    /* background: transparent url(../img/chrome/content_bg.png) left top; */
+    background-size: 100% 1px;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+    max-width: 1024px;
+    width: 100%;
+    text-align: centers;
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-font-smoothing: antialiased;
+    /* -webkit-text-size-adjust: 100%; */
+}
+
+.link {
+    cursor: pointer;
+    float: left;
+    height: 87px;
+    margin: 0;
+    overflow: visible;
+    position: relative;
+    width: 14.28571%;
+}
+
